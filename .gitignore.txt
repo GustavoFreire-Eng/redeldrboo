@@ -1,0 +1,18 @@
+# Tokens e dados sensíveis
+.env
+*.env
+config.py
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
